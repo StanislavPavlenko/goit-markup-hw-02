@@ -1,0 +1,72 @@
+body {
+  font-family: "roboto", sans-serif;
+  position: relative;
+  width: 1440px;
+  height: 2590px;
+}
+.header {
+  background-color: #ffffff;
+}
+.header-navigation {
+}
+.header-logo {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.header-mail {
+}
+.header-tel {
+}
+.main {
+}
+.main-section-hero {
+  background-color: #2e2f42;
+}
+.main-section-hero-title {
+}
+.main-section-hero-btn {
+}
+.main-section-features {
+}
+.main-section-features-title {
+}
+.main-section-features-list {
+}
+.main-section-features-item {
+}
+.main-section-features-subtitle {
+}
+.main-section-doing {
+}
+.main-section-doing-title {
+}
+.main-section-doing-list {
+}
+.main-section-doing-item {
+}
+.main-section-doing-img {
+}
+.main-section-team {
+}
+.main-section-team-title {
+}
+.main-section-team-list {
+}
+.main-section-team-item {
+}
+.main-section-team-img {
+}
+.main-section-team-suntitle {
+}
+.main-section-team-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
