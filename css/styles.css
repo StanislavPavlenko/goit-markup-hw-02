@@ -3,6 +3,8 @@
   --minor-color: #434455;
   --white-color: #ffffff;
   --logo-color: #4d5ae5;
+  --btn-background-color: #f4f4fd;
+  --btn-hover-color: #404bbf;
 }
 
 /* Основний колір #2E2F42; */
@@ -14,7 +16,7 @@
 /* Стилізація ./index.html */
 
 body {
-  font-family: "roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 .header {
   background-color: var(--white-color);
@@ -167,3 +169,35 @@ body {
 }
 
 /* Стилізація ./portfolio.html */
+
+.section-btn {
+}
+.btn {
+  background-color: var(--btn-background-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-color);
+}
+.btn:hover,
+.btn:focus {
+  background-color: var(--btn-hover-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--white-color);
+}
+.invisible {
+}
+.galery {
+}
+.galery-item {
+}
+.galery-img {
+}
+.galery-title {
+}
+.galery-text {
+}
